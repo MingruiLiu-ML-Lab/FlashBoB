@@ -132,3 +132,16 @@ examples/      runnable examples, including drop-in replacement patterns
 tests/         public behavior and numerical checks
 benchmarks/    experiment runners and preserved comparison implementations
 ```
+
+## Citation
+
+If you use FlashBoB in your work, please cite our paper:
+
+```bibtex
+@misc{givans2026flashbob,
+  title  = {FlashBoB: I/O-Efficient Exact Backward-over-Backward for Softmax Attention},
+  author = {Anthony Givans and Michael Crawshaw and Mingrui Liu},
+  year   = {2026},
+  note   = {Manuscript under review at NeurIPS},
+}
+```
