@@ -138,13 +138,11 @@ benchmarks/    experiment runners and preserved comparison implementations
 If you use FlashBoB in your work, please cite our paper:
 
 ```bibtex
-@misc{givans2026flashbob,
-      title={FlashBoB: I/O-Efficient Exact Backward-over-Backward for Softmax Attention}, 
-      author={Anthony Givans and Michael Crawshaw and Mingrui Liu},
-      year={2026},
-      eprint={2609.24089},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2609.24089}, 
+@inproceedings{givans2026flashbob,
+  title     = {FlashBoB: I/O-Efficient Exact Backward-over-Backward for Softmax Attention},
+  author    = {Givans, Anthony and Crawshaw, Michael and Liu, Mingrui},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year      = {2026},
+  url       = {https://arxiv.org/abs/2609.24089}
 }
 ```
